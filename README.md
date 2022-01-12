@@ -1,4 +1,6 @@
-### hello，coder 👋
+### hello coder, I'm 洋羽 👋
+
+<br>
 
 <img width="50%" align=right src="https://github-readme-stats.vercel.app/api?username=m-yangyu&show_icons=true&hide_border=true&theme=buefy" />
 
