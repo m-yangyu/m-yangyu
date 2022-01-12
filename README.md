@@ -46,4 +46,4 @@
 
 --- 
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yangyu" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-yangyu&layout=compact" />
