@@ -1,13 +1,5 @@
 ### hello coder, I'm 洋羽 👋
 
-目前感兴趣的技术领域
-
-- 🐀 跨端应用
-- 🐬 lowcode
-
-曾开发过
-
-- 🔎 可视化埋点（未开源）
 
 ---
 
@@ -32,17 +24,23 @@
 
 ---
 
-### 联系我的方式
+### 技术方向
+
+目前感兴趣的技术领域
+
+- 🐀 跨端应用
+- 🐬 lowcode
+
+曾开发过
+
+- 🔎 可视化埋点（未开源）
+
+--- 
+
+### 可能需要联系我
 
 1. 📧 email  979629316@qq.com
 2. 📧 wechat mqx_yangyu_
-
----
-
-### 最近可能花精力的
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-yangyu&repo=fmp-app)](https://github.com/m-yangyu/fmp-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-yangyu&repo=puzzle)](https://github.com/m-yangyu/puzzle)
 
 --- 
 
